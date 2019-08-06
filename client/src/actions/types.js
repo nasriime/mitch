@@ -1,0 +1,4 @@
+export const FETCH_PRODUCTS = 'FETCH_POSTS'
+export const SEARCH_PRODUCTS = 'SEARCH_POSTS'
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'STOP_LOADING'

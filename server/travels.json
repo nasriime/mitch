@@ -1,0 +1,49 @@
+{
+    "travels": [
+      {
+        "title":"",
+        "agencyName":"",
+        "rating": 3,
+        "description":"",
+        "mealPlan":"",
+        "days":2,
+        "ImageUrl":""
+      },
+      {
+        "title":"",
+        "agencyName":"",
+        "rating": 3,
+        "description":"",
+        "mealPlan":"",
+        "days":2,
+        "ImageUrl":""
+      },
+      {
+        "title":"",
+        "agencyName":"",
+        "rating": 3,
+        "description":"",
+        "mealPlan":"",
+        "days":2,
+        "ImageUrl":""
+      },
+      {
+        "title":"",
+        "agencyName":"",
+        "rating": 3,
+        "description":"",
+        "mealPlan":"",
+        "days":2,
+        "ImageUrl":""
+      },
+      {
+        "title":"",
+        "agencyName":"",
+        "rating": 3,
+        "description":"",
+        "mealPlan":"",
+        "days":2,
+        "ImageUrl":""
+      }
+    ]
+  }
